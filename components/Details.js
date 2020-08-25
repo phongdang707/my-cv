@@ -5,10 +5,9 @@ function Details() {
     <div className="right">
       <p className="hi">HI!</p>
       <p className="intro">
-        I am a front-end web developer, I have over 6 years experience
+        I am a front-end web developer, I have over 4~6 months experience
         developing website, aplication with react and react native. I’m focused
-        on turning ideas into delightful, practical software, doing my best work
-        when collaborating closely with founders, designers, and developers.
+        on turning ideas into delightful.
       </p>
       <p className="skill">
         <span className="head">Skill</span>
